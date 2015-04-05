@@ -1,0 +1,17 @@
+.container {
+    width: 702px;
+    margin:0 auto;
+}
+
+.images {
+    list-style: none;
+}
+
+.images li {
+    background: #F8F8F8;
+    border: 1px solid #E7E7E7;
+}
+
+.images li .imgLink {
+    padding: 10px;
+}
