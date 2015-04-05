@@ -6,4 +6,4 @@ compact & robust
 
 No other library required
 
-Live Preview : itsgroovybaby.in/lazyLoadImages
+Live Preview : http://itsgroovybaby.in/lazyLoadImages
